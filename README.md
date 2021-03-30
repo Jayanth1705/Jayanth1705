@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jayanth1705 
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate with Microsoft.
+- 💞️ I’m looking to collaborate with Companies.
 - 📫 Reach me on jayanth.hariprasad17@gmail.com
 
 <!---
